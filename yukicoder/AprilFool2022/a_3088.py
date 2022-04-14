@@ -1,0 +1,2 @@
+print("LICENSE");print("all")
+for v in ("convolution","dsu","fenwicktree","internal_bit","internal_csr","internal_math","internal_queue","internal_scc","internal_type_traits","lazysegtree","math","maxflow","mincostflow","modint","scc","segtree","string","twosat"):print(v);print(v+".hpp")
